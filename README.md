@@ -150,6 +150,7 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 <img width="445" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/mnist-classification/assets/94165103/172ab5c5-857a-43e6-834b-801595f21330">
 
 <img width="449" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/mnist-classification/assets/94165103/d5ea79e6-38fa-488b-9d12-470e657f4ccd">
+
 <img width="435" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/mnist-classification/assets/94165103/00b9d3d5-1f16-4536-9d58-16cca422f034">
 
 
