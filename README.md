@@ -147,22 +147,25 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-<img width="469" alt="Screenshot 2023-09-10 at 12 02 11 PM" src="https://github.com/KoduruSanathKumarReddy/mnist-classification/assets/69503902/6545ca75-bfb0-48e0-a257-746b9eae64cb">
-<img width="469" alt="Screenshot 2023-09-10 at 12 02 16 PM" src="https://github.com/KoduruSanathKumarReddy/mnist-classification/assets/69503902/9ce5fcc4-c122-4092-952f-2cc094950362">
+<img width="445" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/mnist-classification/assets/94165103/172ab5c5-857a-43e6-834b-801595f21330">
+
+<img width="449" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/mnist-classification/assets/94165103/d5ea79e6-38fa-488b-9d12-470e657f4ccd">
+<img width="435" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/mnist-classification/assets/94165103/00b9d3d5-1f16-4536-9d58-16cca422f034">
+
 
 
 ### Classification Report
 
-<img width="374" alt="Screenshot 2023-09-10 at 12 03 11 PM" src="https://github.com/KoduruSanathKumarReddy/mnist-classification/assets/69503902/707d9584-9283-4d38-87c3-faa23513fb36">
+<img width="344" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/mnist-classification/assets/94165103/5bac8094-7cd7-4922-af72-7b50d7944abe">
 
 
 ### Confusion Matrix
-<img width="381" alt="Screenshot 2023-09-10 at 12 02 54 PM" src="https://github.com/KoduruSanathKumarReddy/mnist-classification/assets/69503902/8c20252e-e0f5-4442-b132-22f04d81564f">
+<img width="340" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/mnist-classification/assets/94165103/3c0e8639-0826-4c09-91b9-9ae8fbea070a">
 
 
 
 ### New Sample Data Prediction
-![seven](https://github.com/KoduruSanathKumarReddy/mnist-classification/assets/69503902/cb62f7a4-9c2e-47d7-88d4-bf4bf46edaf3)
+<img width="379" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/mnist-classification/assets/94165103/ff6f7bcc-8bca-439c-bda5-676a42579d50">
 
 
 
