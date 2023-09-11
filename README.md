@@ -32,6 +32,10 @@ There are a number of handwritten digits in the MNIST dataset. The assignment is
 
 
 ## PROGRAM
+```
+Developed by:D.Amarnath Reddy
+registration no:212221240012
+```
 
 ## Importing the required packages
 ~~~
