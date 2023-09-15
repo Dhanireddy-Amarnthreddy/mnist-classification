@@ -9,7 +9,7 @@ Digit categorization of scanned handwriting images, together with answer verific
 There are a number of handwritten digits in the MNIST dataset. The assignment is to place a handwritten digit picture into one of ten classes that correspond to integer values from 0 to 9, inclusively. The dataset consists of 60,000 handwritten digits that are each 28 by 28 pixels in size. In this case, we construct a convolutional neural network model that can categorise to the relevant numerical value.
 ## Neural Network Model
 
-<img width="514" alt="Screenshot 2023-09-11 at 10 49 43 AM" src="https://github.com/KoduruSanathKumarReddy/mnist-classification/assets/69503902/be7ec212-5488-4a1f-8227-f6f0b773e4cd">
+<img width="688" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/mnist-classification/assets/94165103/783e608d-b9c9-4b1e-b591-2852c1dcd2e6">
 
 
 ## DESIGN STEPS
